@@ -6,7 +6,7 @@ Back end for an e-commerce site using express.js, MySQL2 and Sequelize.
 Clone the repositry from GitHub and open using Visual Studio Code.
 
 # Usage 
-[Demo Video]()
+[Deployed Site](https://abbycav7.github.io/e-commerce-back-end/)
 
 ![alt text](./asset/images/screen-shot-1.png)
 
