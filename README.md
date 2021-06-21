@@ -1,4 +1,4 @@
-# Buy-It
+# E-Commerce Site
 Back end for an e-commerce site using express.js, MySQL2 and Sequelize.
 
 # Installation
