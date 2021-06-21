@@ -8,11 +8,11 @@ Clone the repositry from GitHub and open using Visual Studio Code.
 # Usage 
 [Demo Video]()
 
-![alt text]()
+![alt text](./asset/images/screen-shot-1.png)
 
 # Credits
 
-Made by [Russ Tracy]
+Made by [Abigail Sexton]
 
 [express.js](https://www.npmjs.com/package/express)
 
